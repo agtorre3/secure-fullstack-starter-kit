@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="securefullstackstarterkit.client/securefullstackstarterkit.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="SecureFullStackStarterKit.Server/SecureFullStackStarterKit.Server.csproj" />
+</Solution>

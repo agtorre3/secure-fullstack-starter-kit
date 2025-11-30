@@ -1,0 +1,1 @@
+C:\Users\Alejandra Torres\source\repos\SecureFullStackStarterKit\securefullstackstarterkit.client\obj\Debug\securefullstackstarterkit.client.esproj.CoreCompileInputs.cache
