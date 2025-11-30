@@ -27,6 +27,9 @@ dist-ssr/
 # Visual Studio IDE state
 .vs/
 **/.vs/
+.vscode/
+**/.vscode/
+/wwwroot/dist/
 
 # User-specific files
 *.user
